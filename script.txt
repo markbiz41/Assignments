@@ -1,0 +1,1377 @@
+<html>
+
+<head>
+<meta http-equiv="Content-Language" content="en-us">
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<meta name="GENERATOR" content="Microsoft FrontPage 4.0">
+<meta name="ProgId" content="FrontPage.Editor.Document">
+<title>Thank You For Not Morphing script -- www.charmedscripts.tv</title>
+</head>
+
+<body bgcolor="#FFFAF0" text="#000000">
+
+<p align="center"><b><font size="6" face="Times New Roman">Thank You For Not Morphing</font></b></p>
+<hr size="1">
+<p align="left"><font size="1" face="Verdana">Written by: Chris Levinson and Jack
+Estrin<br>
+Transcribed by: <a href="mailto:shay@charmedscripts.tv"> Shay Fitzpatrick</a></font></p>
+<p align="left"><font size="1" face="Verdana" color="#000000">Season 1, Episode
+03<br>
+Episode Number: 03</font></p>
+<hr size="1">
+<p align="left"><font size="1" face="Verdana">[Scene: Outside the manor. Prue,
+Piper and Phoebe are walking down the stairs heading towards the house across
+the street.]</font></p>
+<p align="left"><font face="Verdana"><b><font size="1">Prue: </font> </b><font size="1">So, we're agreed?
+Twenty minutes?</font></font></p>
+<p align="left"><font face="Verdana"><b><font size="1">Piper: </font> </b><font size="1">Prue, you can't do a
+party in twenty minutes.</font></font></p>
+<p align="left"><font face="Verdana"><b><font size="1">Prue: </font> </b><font size="1">Watch me.</font></font></p>
+<p align="left"><font face="Verdana"><b><font size="1">Phoebe: </font> </b><font size="1">Prue's party tips -
+meet, greet and bail.</font></font></p>
+<p align="left"><font face="Verdana"><b><font size="1">Prue: </font> </b><font size="1">Hey, I'm sorry but some
+of us have a job.</font></font></p>
+<p align="left"><font face="Verdana"><b><font size="1">Phoebe: </font> </b><font size="1">And some of us have
+fun.</font></font></p>
+<p align="left"><font face="Verdana"><b><font size="1">Piper: </font> </b><font size="1">And some of us are
+having a really bad hair day.</font></font></p>
+<p align="left"><font face="Verdana"><b><font size="1">Prue: </font> </b><font size="1">You know, that is a
+sign. Let's turn back now before it's too late.</font></font></p>
+<p align="left"><font face="Verdana"><b><font size="1">Piper: </font> </b><font size="1">No.</font></font></p>
+<p align="left"><font face="Verdana"><b><font size="1">Phoebe: </font> </b><font size="1">Prue, it's never too
+late for a party.</font></font></p>
+<p align="left"><font face="Verdana"><b><font size="1">Piper: </font> </b><font size="1">It's never too late,
+Prue.</font></font></p>
+<p align="left"><font face="Verdana"><b><font size="1">Phoebe: </font> </b><font size="1">Remember my sweet
+sixteen? (You see a dog in the bushes. They walk across the street and into
+Fritz, Marshall and Cynda's house.) Hey, I have an idea. Why don't we throw a
+party and charge commission. It's a great way to make extra cash.</font></font></p>
+<p align="left"><font face="Verdana"><b><font size="1">Prue: </font> </b><font size="1">Hey, I have an even
+better idea. Why don't you just get a job.</font></font></p>
+<p align="left"><font face="Verdana"><b><font size="1">Marshall: </font> </b><font size="1">The sisters
+Halliwell. Now the party can begin.</font></font></p>
+<p align="left"><font face="Verdana"><b><font size="1">Cynda: </font> </b><font size="1">It's about time you
+chicks showed.</font></font></p>
+<p align="left"><font face="Verdana"><b><font size="1">Fritz: </font> </b><font size="1">Hey, Prue, I'm glad
+you made it.</font></font></p>
+<p align="left"><font face="Verdana"><b><font size="1">Prue: </font> </b><font size="1">Wouldn't miss it for
+the world, Fritz.</font></font></p>
+<p align="left"><font face="Verdana"><b><font size="1">Piper: </font> </b><font size="1">Marshall, the place
+looks great.</font></font></p>
+<p align="left"><font face="Verdana"><b><font size="1">Marshall: </font> </b><font size="1">Thank you. We're
+mostly just restoring it. I didn't wanna change it too much. You guys knew the
+old owners didn't you?</font></font></p>
+<p align="left"><font face="Verdana"><b><font size="1">Phoebe: </font> </b><font size="1">Oh, we basically grew
+up with their kids. We probably know the house better than you guys.</font></font></p>
+<p align="left"><font face="Verdana"><b><font size="1">Marshall: </font> </b><font size="1">(to Fritz) Oh, hey, how's the bar?</font></font></p>
+<p align="left"><font face="Verdana"><b><font size="1">Fritz: </font> </b><font size="1">Oh, dry. I'll take
+care of it.</font></font></p>
+<p align="left"><font face="Verdana"><b><font size="1">Cynda: </font> </b><font size="1">No, my turn.</font></font></p>
+<p align="left"><font size="1" face="Verdana">(Cynda crushes a beer can with her
+bare hands. Cynda walks away.)</font></p>
+<p align="left"><font face="Verdana"><b><font size="1">Marshall: </font> </b><font size="1">Try to behave,
+Cynda. We have guests.</font></font></p>
+<p align="left"><font face="Verdana"><b><font size="1">Fritz: </font> </b><font size="1">You know... sisters.</font></font></p>
+<p align="left"><font face="Verdana"><b><font size="1">Prue: </font> </b><font size="1">Tell me about it.</font></font></p>
+<p align="left"><font size="1" face="Verdana">(Piper and Phoebe look at her.)</font></p>
+<p align="left"><font face="Verdana"><b><font size="1">Marshall: </font> </b><font size="1">So listen, enjoy
+the party.</font></font></p>
+<p align="left"><font face="Verdana"><b><font size="1">Phoebe: </font> </b><font size="1">Okay.</font></font></p>
+<p align="left"><font size="1" face="Verdana">(Fritz and Marshall walk away.)</font></p>
+<p align="left"><font face="Verdana"><b><font size="1">Prue: </font> </b><font size="1">Okay, I came, I saw, I
+was perky. Now I just want my head on a pillow because I have to wake up early.</font></font></p>
+<p align="left"><font face="Verdana"><b><font size="1">Phoebe: </font> </b><font size="1">No. I mean, not yet.</font></font></p>
+<p align="left"><font face="Verdana"><b><font size="1">Piper: </font> </b><font size="1">Yeah, Prue, we just
+got here. It, it wouldn't look good.</font></font></p>
+<p align="left"><font face="Verdana"><b><font size="1">Prue: </font> </b><font size="1">Alright, what's going
+on?</font></font></p>
+<p align="left"><font face="Verdana"><b><font size="1">Phoebe: </font> </b><font size="1">Going on? What do you
+mean? (Phoebe sees Andy.) Oh, what a coinkidink. Look, who's here.</font></font></p>
+<p align="left"><font size="1" face="Verdana">(Prue looks over at Andy. He waves.)</font></p>
+<p align="left"><font face="Verdana"><b><font size="1">Prue: </font> </b><font size="1">Phoebe, you didn't.</font></font></p>
+<p align="left"><font face="Verdana"><b><font size="1">Phoebe: </font> </b><font size="1">Well, your fingers
+weren't doing the walking, somebody's had to.</font></font></p>
+<p align="left"><font face="Verdana"><b><font size="1">Prue: </font> </b><font size="1">We've been through
+this. Okay, cop, witch, is not a love connection.</font></font></p>
+<p align="left"><font face="Verdana"><b><font size="1">Phoebe: </font> </b><font size="1">Boy, girl, lighten
+up.</font></font></p>
+<p align="left"><font size="1" face="Verdana">(Andy comes over to Prue.)</font></p>
+<p align="left"><font face="Verdana"><b><font size="1">Piper: </font> </b><font size="1">Hi, Andy.</font></font></p>
+<p align="left"><font size="1" face="Verdana">(Piper and Phoebe walk away.)</font></p>
+<p align="left"><font face="Verdana"><b><font size="1">Prue: </font> </b><font size="1">We're working on their
+subtlety.</font></font></p>
+<p align="left"><font face="Verdana"><b><font size="1">Andy: </font> </b><font size="1">Then it's onto ending
+hunger and creating world peace, right?</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Prue: </font> </b><font size="1">Hmm, what will I do
+with my Saturdays?</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Andy: </font> </b><font size="1">Funny you should ask. I
+don't mean to push you but I was wondering if you're not doing anything, I kind
+of have these tickets but they're for a Warriors game and you probably wouldn't
+be interested, so...</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Prue: </font> </b><font size="1">Well, the team can't do any
+worse than they did last year. Did you see him get creamed by the Lakers?</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Andy: </font> </b><font size="1">Impressive. Is that a
+yes?</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Prue: </font> </b><font size="1">You know, um, I need to
+check my book because I might have a thing.</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Andy: </font> </b><font size="1">A thing?</font></font></p>
+
+<p align="left"><font size="1" face="Verdana">(Fritz walks up to them.)</font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Fritz: </font> </b><font size="1">So Prue, I hear you're
+friends with a cop.</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Prue: </font> </b><font size="1">Inspector actually.</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Fritz: </font> </b><font size="1">Oh, yeah. I've got
+these parking tickets.</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Andy: </font> </b><font size="1">My focus is mainly
+homicide and robbery.</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Fritz: </font> </b><font size="1">Yeah, yeah. So I have these parking tickets...</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Prue: </font> </b><font size="1">Gotta go.</font></font></p>
+
+<p align="left"><font size="1" face="Verdana">(Prue
+walks away.)</font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Andy: </font> </b><font size="1">Prue, wait.</font></font></p>
+
+<p align="left"><font size="1" face="Verdana">[Cut to outside. Prue walks back
+over to the manor. She notices the door's open.]</font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Prue: </font> </b><font size="1">Phoebe.</font></font></p>
+
+<p align="left"><font size="1" face="Verdana">(She walks inside and shuts the
+door. There's a dog on the stairs and it starts barking at her. She runs back
+outside. The dog's eyes glow.)</font></p>
+
+<p align="center"><b><font size="1" face="Verdana">Opening Credits</font></b></p>
+
+<p align="left"><font size="1" face="Verdana">[Scene: Manor. Kitchen. Prue, Piper
+and Phoebe are there.]</font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Phoebe: </font> </b><font size="1">How big was this dog
+again?</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Prue: </font> </b><font size="1">Huge. Did you see the
+scratches on the attic door?</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Piper: </font> </b><font size="1">What was it doing in
+the house?</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Prue: </font> </b><font size="1">I don't know. Someone
+obviously left the front door open again.</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Phoebe: </font> </b><font size="1">Why do you always
+assume it was me? What about Piper?</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Piper: </font> </b><font size="1">Not it.</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Phoebe: </font> </b><font size="1">Well, it's not a big
+deal. We checked the house and nothing is missing except my Pat Boone Christmas
+CD.</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Piper: </font> </b><font size="1">Now this is really
+creepy. If there were a dog in the house, then it had to have an owner. No dog I
+know can open that front door, let alone reach the top shelf.</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Phoebe: </font> </b><font size="1">Hey, maybe we should
+get a security system.</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Prue: </font> </b><font size="1">No, they are way too
+expensive. Besides after what happened, Andy will be checking in every five
+minutes.</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Piper: </font> </b><font size="1">Oh, you told him.</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Phoebe: </font> </b><font size="1">Convenient. So what
+should we do?</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Prue: </font> </b><font size="1">Well, either we could rely on
+our vicious guard cat to protect us or we could remember to lock the doors.</font></font></p>
+
+<p align="left"><font size="1" face="Verdana">(Prue walks in the laundry.)</font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Phoebe: </font> </b><font size="1">That is a really good
+idea, Prue.</font></font></p>
+
+<p align="left"><font size="1" face="Verdana">(Phoebe walks over and locks the
+door. Prue wiggles the door handle. Piper and Phoebe laugh.)</font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Prue: </font> </b><font size="1">Unlock the door,
+Phoebe.</font></font></p>
+
+<p align="left"><font size="1" face="Verdana">[Scene: Bucklands. Prue's office.
+Prue's sitting at her desk writing on a notepad. Victor walks in. He clears his
+throat. Prue looks up.]</font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Victor: </font> </b><font size="1">I was told that you
+might be able to help me. (He pulls a ring off his finger.) I'd like to have
+this (he puts it on the desk) appraised.</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Prue: </font> </b><font size="1">Well, you would be
+better off going to the house's appraiser.</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Victor: </font> </b><font size="1">I've been there. He'd
+need a week. And I just... I wouldn't feel right without it. It's a family
+heirloom.</font></font></p>
+
+<p align="left"><font size="1" face="Verdana">(She picks it up and looks at it.)</font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Prue: </font> </b><font size="1">I think I've seen a
+ring similar to this before. The setting's quite old. At least 17th century.
+(She walks over to a shelf and picks up a book.) The stones looks like crystallite.
+Keep in mind this is just an educated guess.</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Victor: </font> </b><font size="1">Please, (he sits
+down) guess away.</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Prue: </font> </b><font size="1">I am not mistaken. It's
+a stone that the Egyptians believed would protect them against spells, curses,
+evil spirits. This wouldn't be a wedding band by any chance would it?</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Victor: </font> </b><font size="1">You tell me.</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Prue: </font> </b><font size="1">The stones are set in
+two's. The symbol of twoality. Man, woman. Like in protection.</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Victor: </font> </b><font size="1">And what does all
+that tell you?</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Prue: </font> </b><font size="1">Where did you get this
+ring? What did you say your name was?</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Victor: </font> </b><font size="1">I think you know what
+my name is... Prudence.</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Prue: </font> </b><font size="1">Get out, (she throws
+the ring on the table and stands up) and stay away from us.</font></font></p>
+
+<p align="left"><font size="1" face="Verdana">(He puts on the ring.)</font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Victor: </font> </b><font size="1">I'm staying at the
+Ballmark. What do you say you and your sisters join me for dinner? Let's say
+tomorrow night. We can talk.</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Prue: </font> </b><font size="1">After how you abandoned
+us? How dare you.</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Victor: </font> </b><font size="1">Fiery temper. I like
+that. It reminds me of someone I know.</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Prue: </font> </b><font size="1">I am nothing like you.
+I would never leave my responsibilities, my family.</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Victor: </font> </b><font size="1">I can see we have
+some issues to work through.</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Prue: </font> </b><font size="1">Oh, we've got the whole
+subscription. Now get out
+before I have you thrown out.</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Victor: </font> </b><font size="1">Is that anyway to
+talk to your father?</font></font></p>
+
+<p align="left"><font size="1" face="Verdana">(He leaves.)</font></p>
+
+<p align="center"><b><font size="1" face="Verdana">Commercial Break</font></b></p>
+
+<p align="left"><font size="1" face="Verdana">[Scene: At a cafe. Prue, Piper and
+Phoebe are sitting at a table drinking coffee.]</font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Piper: </font> </b><font size="1">I wonder why he went
+to you first? Why not Phoebe or me?</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Prue: </font> </b><font size="1">Piper, it's not like I
+won the lottery.</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Phoebe: </font> </b><font size="1">What was he like? Did
+he ask about us?</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Prue: </font> </b><font size="1">Actually, no. (Phoebe
+looks upset.) Phoebe,
+think about it. He abandoned us. He was a no show for twenty years and then
+what, suddenly here he is? Why now?</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Piper: </font> </b><font size="1">Maybe he just wants to
+be part of our lives.</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Prue: </font> </b><font size="1">After all this time?
+Don't get your hopes up.</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Phoebe: </font> </b><font size="1">Well, there's only
+one way to find out. Why wait till dinner? Let's go see him now.</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Prue: </font> </b><font size="1">Will you be rational.
+Don't you find it just a little suspicious that just when we find out...</font></font></p>
+
+<p align="left"><font size="1" face="Verdana">(a waitress comes up to the table
+and picks up the dirty plates.)</font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Waitress: </font> </b><font size="1">Let me get that
+for you.</font></font></p>
+
+<p align="left"><font size="1" face="Verdana">(She walks away.)</font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Prue: </font> </b><font size="1">Just when we find out
+we're witches he shows up. But when mum dies he's no where to be found.</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Phoebe: </font> </b><font size="1">He sent us birthday
+cards.</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Prue: </font> </b><font size="1">Selective memory.
+Grams always told us he was a threat to us. There's no reason to think that's
+changed.</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Piper: </font> </b><font size="1">Prue, it's not that I
+don't see your point but you knew him, we didn't. Why can't we have a chance to
+know now?</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Prue: </font> </b><font size="1">Because we really don't
+know why he's here and until we do we can't trust him.</font></font></p>
+
+<p align="left"><font size="1" face="Verdana">[Scene: A hotel. Phoebe knocks on
+the door to Victor's room.]</font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Victor: </font> </b><font size="1">Entrée.</font></font></p>
+
+<p align="left"><font size="1" face="Verdana">(Phoebe opens the door and walks in.
+She walks down all hallway and into a room. She sees Victor getting a massage.)</font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Phoebe: </font> </b><font size="1">Daddy?</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Victor: </font> </b><font size="1">Well, well. What a
+nice surprise.</font></font></p>
+
+<p align="left"><font size="1" face="Verdana">(He stands up.)</font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Phoebe: </font> </b><font size="1">I'm, uh, I'm sorry to
+just show up like this. I know I was supposed to wait for dinner but I...</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Victor: </font> </b><font size="1">No, nonsense.
+Welcome. Let me get a good look at you. This is my baby girl. Little... Piper?
+(Phoebe looks crushed.) Phoebe.</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Phoebe: </font> </b><font size="1">Yeah. That's okay.
+People confuse us all the time.</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Victor: </font> </b><font size="1">Are you kidding? I
+should be slapped and persecuted. Let me make it up to you. How about some room
+service?</font></font></p>
+
+<p align="left"><font size="1" face="Verdana">(He heads towards the phone.)</font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Phoebe: </font> </b><font size="1">I just ate actually.</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Victor: </font> </b><font size="1">A drink? You are
+legal, right?</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Phoebe: </font> </b><font size="1">Barely but no thanks.</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Victor: </font> </b><font size="1">A massage? I can call
+Lucy back.</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Phoebe: </font> </b><font size="1">No, really, I don't
+want anything. I just wanted to look at you.</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Victor: </font> </b><font size="1">It's like looking in
+the mirror isn't it? You've got you daddy's eyes, you know that?</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Phoebe: </font> </b><font size="1">I noticed that.</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Victor: </font> </b><font size="1">How about a hug?
+(They hug and Phoebe gets a premonition of Victor holding the Book Of Shadows.
+The premonition ends. The phone rings and they stop hugging.) They always manage
+to find me.</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Phoebe: </font> </b><font size="1">You know what? It's
+okay, I, I'll just see you at dinner, I've gotta go.</font></font></p>
+
+<p align="left"><font size="1" face="Verdana">(Phoebe leaves.)</font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Victor: </font> </b><font size="1">Phoebe. Phoebe, wait.</font></font></p>
+
+<p align="left"><font size="1" face="Verdana">[Scene: Outside the manor. A mailman
+walks up the stairs to the front door. His index finger turns into a key, he
+unlocks the door and walks inside. He walks up the stairs and up to the attic.
+The attic door is locked so he breaks it down. He grabs the Book Of Shadows and
+runs back down the stairs. When he walks through the doorway, the book flies out
+of his hands. He picks it back up but it doesn't let him take it outside. He
+sees Prue coming up the stairs so he quickly closes the door and he throws the
+book in the living room. He shape shifts into Andy. Prue walks in.]</font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Prue: </font> </b><font size="1">Andy, what are you
+doing in here?</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Andy: </font> </b><font size="1">Uh, door was open.</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Prue: </font> </b><font size="1">Again?</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Andy: </font> </b><font size="1">Yeah, I, uh, came by to
+check up and it was open. I looked around. Everything seems to be in order. (Prue
+sees the Book Of Shadows on the floor in the living room.) You want me to check
+upstairs?</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Prue: </font> </b><font size="1">Uh, no, no, no, that's
+okay really. (She uses her power and the book slides under a stand.) Oh, and,
+um, about tomorrow night, I've changed my mind.</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Andy: </font> </b><font size="1">Excuse me?</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Prue: </font> </b><font size="1">Well, you'll never
+believe who popped back into my life after twenty years. Victor, my dad.</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Andy: </font> </b><font size="1">Your dad?</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Prue: </font> </b><font size="1">Yeah, he wants to have
+dinner and I would really rather avoid that. Too bad the game's not tonight. (Cynda
+knocks on the door.) Uh, hi Cynda.</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Cynda: </font> </b><font size="1">Hey. Everything okay?</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Prue: </font> </b><font size="1">Yeah, thanks.</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Cynda: </font> </b><font size="1">Bye.</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Prue: </font> </b><font size="1">Nice party last night.</font></font></p>
+
+<p align="left"><font size="1" face="Verdana">(Cynda leaves.)</font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Andy: </font> </b><font size="1">I guess I'll get going
+too.</font></font></p>
+
+<p align="left"><font size="1" face="Verdana">(He kisses her on the cheek and
+leaves. Prue locks the door. She walks over, picks up the Book Of Shadows and
+takes it back upstairs. She notices the broken door.)</font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Prue: </font> </b><font size="1">What the hell?</font></font></p>
+
+<p align="center"><b><font size="1" face="Verdana">Commercial Break</font></b></p>
+
+<p align="left"><font size="1" face="Verdana">[Scene: Manor. Kitchen. Prue, Piper
+and Phoebe's there. Phoebe sits down at the table. Prue and Piper are looking
+through the drawers.]</font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Phoebe: </font> </b><font size="1">You don't know for
+sure.</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Prue: </font> </b><font size="1">I know plenty. First
+someone rips off the attic door, then the Book Of Shadows is found downstairs.
+Isn't that enough?</font></font></p>
+
+<p align="left"><font size="1" face="Verdana">(Piper gets a phone book out of a
+drawer.)</font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Piper: </font> </b><font size="1">Why would somebody
+want the book? Here.</font></font></p>
+
+<p align="left"><font size="1" face="Verdana">(She hands the phone book to Prue
+and they both sit down at the table.)</font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Prue: </font> </b><font size="1">Well, for one reason,
+they know what it can do. They want its power, our power.</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Piper: </font> </b><font size="1">That would mean it's
+someone who knows us and knows that we're witches.</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Prue: </font> </b><font size="1">Yeah, someone like
+Victor.</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Phoebe: </font> </b><font size="1">What? Dad?</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Prue: </font> </b><font size="1">Look, just think about
+it. The moment he shows up someone makes two attempts to grab the book.
+Coincidence? I think not.</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Piper: </font> </b><font size="1">The craft is a chick
+thing, Prue. It's passed on down through the female line. There's a good chance
+dad doesn't even know we're charmed.</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Prue: </font> </b><font size="1">And there's as good of
+a chance he does.</font></font></p>
+
+<p align="left"><font size="1" face="Verdana">(Phoebe remembers the premonition
+she had.)</font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Piper: </font> </b><font size="1">What would he want
+with the book? And why would he take it from us? Phoebe, help me out here.
+Phoebe.</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Phoebe: </font> </b><font size="1">Okay. Let's just say
+for the sake of argument that he is after the it. Wouldn't he of taken it with
+him? He wouldn't of left it behind.</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Piper: </font> </b><font size="1">Okay, we have to call
+the cops and report it as break in.</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Prue: </font> </b><font size="1">And tell them what?
+That someone broke into our house to try steal our broomsticks? I mean, please.
+Besides, Andy's already been here.</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Phoebe: </font> </b><font size="1">Oh, so Andy was here
+again. Talk about convenient. Did you ever think about pointing the finger at
+him?</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Prue: </font> </b><font size="1">He's probably the one
+who scared Victor away. Until we find out what's going on and whether Victor's
+involved or not, we've got to hide the book. Either that or we can't leave the
+house.</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Piper: </font> </b><font size="1">Fine. Then we hide the
+book because I'm going to dinner tonight. I wanna see dad.</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Phoebe: </font> </b><font size="1">So do I.</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Prue: </font> </b><font size="1">I've already seen him.</font></font></p>
+
+<p align="left"><font size="1" face="Verdana">[Scene: Restaurant. Piper, Phoebe
+and Victor are sitting at a table. Piper's nibbling on a carrot stick.]</font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Victor: </font> </b><font size="1">Girls, it's so nice to see
+you. It's not like we don't have a lot to talk about.</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Phoebe: </font> </b><font size="1">We do. I mean, yeah,
+we have a few questions.</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Victor: </font> </b><font size="1">(to Piper) You know,
+the last time we ate dinner together, you would only eat food that was white.
+I'm glad to see you've out grown it.</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Piper: </font> </b><font size="1">That's right. I was
+four.</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Victor: </font> </b><font size="1">Phoebe, that would've
+made you what? One? (She nods.) You know, you couldn't walk yet but you could swim. You
+were a fish. (Phoebe laughs.) This feels right doesn't it? This feels natural,
+almost like normal.</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Piper: </font> </b><font size="1">Almost. It's just, um,
+well, why? I mean, after all this time, why here, why now?</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Victor: </font> </b><font size="1">Well, I heard the
+food is pretty good here and it is dinner time.</font></font></p>
+
+<p align="left"><font size="1" face="Verdana">(Phoebe laughs. The waiter places a
+plate in front of Phoebe.)</font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Waiter: </font> </b><font size="1">Here you are, ma'am.</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Phoebe: </font> </b><font size="1">Thank you.</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Victor: </font> </b><font size="1">Bon appetite.</font></font></p>
+
+<p align="left"><font size="1" face="Verdana">[Scene: Manor. Kitchen. Prue takes a
+container of broccoli out of the microwave and pours them out onto a plate. The
+door bell rings.]</font></p>
+
+<p align="left"><font size="1" face="Verdana">[Cut to the foyer. Prue walks in and
+opens the door. Andy's there.]</font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Andy: </font> </b><font size="1">My plans for tonight
+fell through, figured I'd stop by.</font></font></p>
+
+<p align="left"><font size="1" face="Verdana">(Prue opens the door wider and Andy
+walks in.)</font></p>
+
+<p align="left"><font size="1" face="Verdana">[Time lapse. In the kitchen. Andy's
+sitting at the table. Prue carries two cups of coffee over to the table.]</font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Prue: </font> </b><font size="1">And then all of a
+sudden there he was. He just showed up at work.</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Andy: </font> </b><font size="1">I can't believe it. How
+are you dealing?</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Prue: </font> </b><font size="1">Honestly, I'm not.</font></font></p>
+
+<p align="left"><font size="1" face="Verdana">(She sits down.)</font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Andy: </font> </b><font size="1">I don't blame you. What
+do you think he wants?</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Prue: </font> </b><font size="1">Dinner. Piper and
+Phoebe are there with him now. You know, they just don't understand. They don't
+know him like I do. I can't believe I let them go. I can't believe they went.
+He's acting like no time has passed, like I'm still his little girl and I'm not.
+There are things I want to tell him, I want him to know what he missed. You
+know, like the time I broke my arm or the day that I finally passed my drivers
+test, our prom.</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Andy: </font> </b><font size="1">Didn't we miss that
+too?</font></font></p>
+
+<p align="left"><font size="1" face="Verdana">(They smile.)</font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Prue: </font> </b><font size="1">I want him to know. I
+want him to want to know. And I'm sorry but I also want some answers, like where
+the hell's he been all my life. Why didn't he come back until now? He needs to
+know that that's not okay.</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Andy: </font> </b><font size="1">So tell him. I'll drop
+him off.</font></font></p>
+
+<p align="left"><font size="1" face="Verdana">[Scene: Restaurant. Prue walks in
+and goes up to the table. Victor stands up.]</font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Victor: </font> </b><font size="1">Prudence.</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Prue: </font> </b><font size="1">Did I miss much?</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Phoebe: </font> </b><font size="1">Uh, just catch up.
+Dad was filling us in. Memory lane.</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Prue: </font> </b><font size="1">Has he mentioned where
+he's been all our lives?</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Piper: </font> </b><font size="1">Prue...</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Prue: </font> </b><font size="1">I don't understand. If
+you can afford a spot like this, why didn't you help out when Grams died? We
+actually could've used it then.</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Piper: </font> </b><font size="1">Give him a chance,
+Prue. Dad's explained. The money, all this, it's new.</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Victor: </font> </b><font size="1">It's okay, Piper. I'm
+a big boy. I didn't come back earlier because I was afraid I might disappoint
+you.</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Prue: </font> </b><font size="1">Too late.</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Piper: </font> </b><font size="1">I wonder what's
+keeping that dessert?</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Victor: </font> </b><font size="1">Please, sit down.
+Have something to eat.</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Prue: </font> </b><font size="1">I'm not hungry.</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Victor: </font> </b><font size="1">Always in a hurry,
+Prue. You skipped crawling and went straight to walking.</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Prue: </font> </b><font size="1">Ah, we're sharing
+memories. Well, I got one of my own, you're back walking out the door.</font></font></p>
+
+<p align="left"><font size="1" face="Verdana">(Just as a waiter walks past them
+holding a flambeau, Victor puts out his foot and trips him. Piper freezes him
+and the restaurant. She gets up and takes the flambeau out of the waiters hands.
+Everyone unfreezes and the waiter falls flat on his face.)</font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Piper: </font> </b><font size="1">Who wants flambeau?</font></font></p>
+
+<p align="left"><font size="1" face="Verdana">(The waiter stands back up and takes
+the flambeau off of Piper.)</font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Victor: </font> </b><font size="1">Nice reflexes. Now
+let me get this straight. Piper, you freeze time. Prue, don't you move objects?
+And what's you specialty, Phoebe? Premonitions? Maybe we should talk about this
+elsewhere.</font></font></p>
+
+<p align="left"><font size="1" face="Verdana">[Scene: Manor. Living room. Piper
+and Phoebe are sitting on the couch reading magazines. The mail man walks in.
+Piper jumps up.]</font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Piper: </font> </b><font size="1">What are you doing
+here?</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Mail Man: </font> </b><font size="1">What do ya think?</font></font></p>
+
+<p align="left"><font size="1" face="Verdana">(Phoebe jumps up.)</font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Phoebe: </font> </b><font size="1">Get out now.</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Mail Man: </font> </b><font size="1">No, you've gotta
+get out.</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Phoebe: </font> </b><font size="1">We've got it under
+control.</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Mail Man: </font> </b><font size="1">No you don't
+because they're on their way back. (The mail man shape shifts into Fritz.) I
+thought you were in charge. Look, shape shift into yourself and we'll get back
+to the book later. (Phoebe shape shifts into Marshall.) Nice plan, Marshall.</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Marshall: </font> </b><font size="1">Don't piss me off,
+Fritz. (Piper shape shifts into Cynda.) How was I supposed to know Prue would
+come back with her sisters.</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Cynda: </font> </b><font size="1">That little witch was
+supposed to be out on a date with that cop.</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Fritz: </font> </b><font size="1">You really think you
+would've been able to trick Prue into getting the book out of the house?</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Marshall: </font> </b><font size="1">Well, we sure as
+hell can't now can we?</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Fritz: </font> </b><font size="1">So what now, genius?</font></font></p>
+
+<p align="left"><font size="1" face="Verdana">(Cynda laughs and then turns into a
+demon-like creature.)</font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Cynda: </font> </b><font size="1">We kill them.</font></font></p>
+
+<p align="left"><font size="1" face="Verdana">[Cut to outside. Prue, Piper, Phoebe
+and Victor pull up.]</font></p>
+
+<p align="left"><font size="1" face="Verdana">[Cut back inside.]</font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Marshall: </font> </b><font size="1">Cynda, heal. Plenty
+of time for that later. Heal.</font></font></p>
+
+<p align="left"><font size="1" face="Verdana">[Cut back outside. Prue unlocks the
+door. When she opens it she sees three crows inside. They squawk and fly
+outside.]</font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Victor: </font> </b><font size="1">Friends of yours?</font></font></p>
+
+<p align="center"><b><font size="1" face="Verdana">Commercial Break</font></b></p>
+
+<p align="left"><font size="1" face="Verdana">[Scene: Manor. Living room. Phoebe,
+Piper and Victor are there laughing. Prue walks in.]</font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Prue: </font> </b><font size="1">Someone left the window
+open which is probably how the birds got in. What is so funny?</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Piper: </font> </b><font size="1">Do you remember the
+day this was taken?</font></font></p>
+
+<p align="left"><font size="1" face="Verdana">(Piper shows her a photograph.)</font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Prue: </font> </b><font size="1">Yeah, family picnic. It
+rained.</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Victor: </font> </b><font size="1">And your mother
+packed us all up and she brought us home and we had the picnic right here in the
+living room. Do you remember that Prue?</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Prue: </font> </b><font size="1">Barely.</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Phoebe: </font> </b><font size="1">Prue...</font></font></p>
+
+<p align="left"><font size="1" face="Verdana">(Victor picks up another photograph
+and slowly walks over to Prue.)</font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Victor: </font> </b><font size="1">This one was at one
+of your piano recitals. Not a very good shot. My fault. I had to take the
+pictures that day. Your mother was too busy holding her breath. If you look
+closely, (he hands her the photo) you see there, that's her.</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Prue: </font> </b><font size="1">I never noticed that
+before.</font></font></p>
+
+<p align="left"><font size="1" face="Verdana">(Victor picks up another photo.)</font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Victor: </font> </b><font size="1">And this one used to
+be a five by seven. (It is a picture of the family but a piece is missing.) When
+I was still in it.</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Phoebe: </font> </b><font size="1">I think Grams cut you
+out.</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Piper: </font> </b><font size="1">There's a bunch of
+other stuff in the attic. Grams left us some things.</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Phoebe: </font> </b><font size="1">Not all she left us.</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Prue: </font> </b><font size="1">Phoebe, let's not go
+there.</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Phoebe: </font> </b><font size="1">What, it's not like
+he doesn't already know and I'm sorry but it's kind of a relief to talk to
+someone about it.</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Piper: </font> </b><font size="1">Um, does anybody want
+coffee?</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Phoebe: </font> </b><font size="1">I mean, one day I am
+a member of the Y generation with average hair and a thing for caffeinated
+beverages, and the next I am a witch.</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Piper: </font> </b><font size="1">Dad, do you take cream
+or, um, sugar with that?</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Phoebe: </font> </b><font size="1">I just read from the
+book and 'wham!' I am Tabitha. The only thing is, is I got stuck with the power
+to see the future. How uncool is that?</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Victor: </font> </b><font size="1">Well, from what your
+mother always said, it was actually considered one of the more desirable powers.</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Phoebe: </font> </b><font size="1">Unless you see things
+you don't desire.</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Prue: </font> </b><font size="1">So how long have you
+known? About us, our powers, how long?</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Victor: </font> </b><font size="1">I knew there was a
+possibility. That's why I came back, to find out. It must of happened when your
+grandmother died, right?</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Phoebe: </font> </b><font size="1">Yep, I just read an
+incantation from the book and...</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Prue: </font> </b><font size="1">Phoebe.</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Victor: </font> </b><font size="1">Ahh, the Book Of
+Shadows. Not exactly summer reading. Is it still up in the attic? You know, I
+haven't seen it in years. Mind if I have a look?</font></font></p>
+
+<p align="left"><font size="1" face="Verdana">[Cut to Fritz, Marshall and Cynda's
+house. Cynda is hitting a chair against the wall.]</font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Cynda: </font> </b><font size="1">Disappointed.</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Marshall: </font> </b><font size="1">Patience, my sweet.</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Cynda: </font> </b><font size="1">Patience is highly
+over rated. We could've destroyed them right there.</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Marshall: </font> </b><font size="1">Then we'd have
+three dead witches and no way to get the book out of the house. Where would that
+put us?</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Cynda: </font> </b><font size="1">Satisfied.</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Fritz: </font> </b><font size="1">I still like my idea.
+We just kill two of them and we force the third to get the book out.</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Marshall: </font> </b><font size="1">Let me explain this
+once again for the cerebrally impaired. These are not school girls we're dealing
+with. These are good witches. We can not alert them with our presence. At their
+full strength, battling them would be unpleasant. However, once we possess the
+book, we get its powers, we weaken theirs and they're easy pray.</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Fritz: </font> </b><font size="1">You know, that sounds
+good in theory but, um, (he raises his voice) we've already tried everything.</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Marshall: </font> </b><font size="1">We still have
+Victor.</font></font></p>
+
+<p align="left"><font size="1" face="Verdana">[Cut back to the manor.]</font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Victor: </font> </b><font size="1">What exactly are you
+accusing me of, Prue?</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Prue: </font> </b><font size="1">Figure it out.</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Phoebe: </font> </b><font size="1">Come on, Prue, take
+it easy.</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Prue: </font> </b><font size="1">Are you kidding me? Am
+I the only one who sees what's going on here?</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Piper: </font> </b><font size="1">Couldn't we all just
+take a deep breath...</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Prue: </font> </b><font size="1">Think about it, Piper.
+He wines and dines and now he's back in the house he hasn't set foot in for
+twenty years and the first thing he wants to know is where's the Book Of
+Shadows?</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Phoebe: </font> </b><font size="1">You're just looking
+for something to blame him for.</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Prue: </font> </b><font size="1">Admit it. Tell them why
+you're here.</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Piper: </font> </b><font size="1">Prue, stop.</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Prue: </font> </b><font size="1">For the first time in
+your life, Victor, tell them the truth.</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Victor: </font> </b><font size="1">Alright, fine. You're
+right. I am after the book. That's exactly the reason why I came back.</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Phoebe: </font> </b><font size="1">Dad.</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Victor: </font> </b><font size="1">But not for the
+reasons you would like to believe. It would make it easier for you, Prue,
+wouldn't it? If I were evil. Well, I'm sorry to disappoint you, I'm not. I'm
+here to protect you.</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Prue: </font> </b><font size="1">Yeah, right.</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Piper: </font> </b><font size="1">To protect us from
+what?</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Victor: </font> </b><font size="1">From yourselves.
+That's why I want that damn book. It's where the power of three started and it's
+where it must end.</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Phoebe: </font> </b><font size="1">It's part of us, it's
+part of who we are.</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Victor: </font> </b><font size="1">That's what your
+mother believed too. Before they killed her.</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Piper: </font> </b><font size="1">What are you saying?</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Victor: </font> </b><font size="1">You have no idea what
+evil is out there.</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Prue: </font> </b><font size="1">Oh, I think we've got a
+pretty good idea.</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Victor: </font> </b><font size="1">Listen to me, Prue.
+That book is a magnet for evil. As long as you have it, as long as you use it, you're
+in danger. All of you.</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Prue: </font> </b><font size="1">You're unbelievable.
+After all these years of being an absentee dad then you waltz back into our
+lives and tell us how to live.</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Victor: </font> </b><font size="1">I never wanted you to
+have those powers in the first place. I battled with your grandmother after your
+mum died. She wanted you to find out you were witches when you grew up. I
+didn't. I fought for you, hard. Your grandmother was too strong.</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Piper: </font> </b><font size="1">Wait, you're blaming
+Grams for why you disappeared. She loved us, she raised us.</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Prue: </font> </b><font size="1">What'd she do? Put a
+spell on you?</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Victor: </font> </b><font size="1">believe me, nothing
+short of that would've kept me away. You have to believe me. All I want is for
+what's best for you. Phoebe, you believe me don't you?</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Prue: </font> </b><font size="1">We've done fine without
+you.</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Victor: </font> </b><font size="1">Prue, you can't fight
+this. I couldn't.</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Prue: </font> </b><font size="1">I'm not you.</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Victor: </font> </b><font size="1">Are you sure? Are you
+sure you can protect your sisters forever?</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Piper: </font> </b><font size="1">We'll protect each
+other.</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Victor: </font> </b><font size="1">Then you'll die
+together.</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Prue: </font> </b><font size="1">No one can hurt us as
+bad as you.</font></font></p>
+
+<p align="left"><font size="1" face="Verdana">(She uses her power and he flies
+across the room and he hits the door frame. He stands back.)</font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Victor: </font> </b><font size="1">If you wanted me to
+leave, all you had to do was ask.</font></font></p>
+
+<p align="left"><font size="1" face="Verdana">(He leaves.)</font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Phoebe: </font> </b><font size="1">Why did you have to
+do that?</font></font></p>
+
+<p align="left"><font size="1" face="Verdana">(Phoebe follows Victor outside.)</font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Piper: </font> </b><font size="1">Did you have to throw
+him so hard?</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Prue: </font> </b><font size="1">Piper...</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Piper: </font> </b><font size="1">We could've just, you
+know, talked
+about it like normal people.</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Prue: </font> </b><font size="1">We're not normal.</font></font></p>
+
+<p align="center"><b><font size="1" face="Verdana">Commercial Break</font></b></p>
+
+<p align="left"><font size="1" face="Verdana">[Scene: Hotel. Victor's room. Victor
+walks in and sits on the couch. The light turns on and Fritz, Marshall and Cynda
+are standing there.]</font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Marshall: </font> </b><font size="1">Hell, Victor. Where
+have you been?</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Victor: </font> </b><font size="1">How did you get in
+here?</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Marshall: </font> </b><font size="1">I think you should
+be a little more concerned with what we're doing in here.</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Victor: </font> </b><font size="1">I was wondering when
+evil would rear its ugly head.</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Marshall: </font> </b><font size="1">Consider it reared.
+I don't know what kind of people you're used to dealing with but I'd lay serious
+coin that they
+aren't willing to rip you into a thousand pieces and dance on your entrails.</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Victor: </font> </b><font size="1">Ahh, so you're
+lawyers. And here I was assuming you were shape shifters.</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Fritz: </font> </b><font size="1">Those are clever words
+for a man about to be an appetizer.</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Victor: </font> </b><font size="1">Cocky words for a man
+who can't get a simple book out of a house. Close your mouth. I mean, it's
+obvious. You're gonna shape shift into me and try to get to the girls that way.
+Am I right? It won't work.</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Cynda: </font> </b><font size="1">Why not?</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Victor: </font> </b><font size="1">(to Marshall) You
+mind if I poke holes?</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Marshall: </font> </b><font size="1">Poke away.</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Victor: </font> </b><font size="1">After tonight, the
+girls won't let me or anything that looks like me back into their lives let
+alone the house. I have officially been kicked out. There is however, one sister
+I can reach. Phoebe.</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Cynda: </font> </b><font size="1">So why don't I just
+become you and I'll reach her.</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Victor: </font> </b><font size="1">Because only her real
+father would know what buttons to push. The ones that would get me back in. If
+you kill me, you'll never know what they are. You'll never get back into the
+house and you'll never get the Book Of Shadows.</font></font></p>
+
+<p align="left"><font size="1" face="Verdana">[Scene: Manor. Dining room. Piper
+and Prue are sitting at the table looking depressed. Prue's moving her food
+around the plate with her fork. Phoebe walks in.]</font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Phoebe: </font> </b><font size="1">Good morning, Phoebe.
+(They ignore her. She picks up a napkin and waves it around.) Uh, guys. Can we
+call it truce just for five minutes please? I have a confession. Remember when
+we agreed to not see dad? Yeah, well, I did.</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Piper: </font> </b><font size="1">Hello, I was with you.</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Phoebe: </font> </b><font size="1">No, by myself before
+dinner and I had a premonition about dad when he hugged me. He was stealing the
+Book Of Shadows. Yeah, you were right about him, Prue. I didn't want the
+premonition to be true. I was hoping, praying that there was a perfectly good
+explanation for it. Hoping that, that he was really here to be with us. I just
+wanted him back in our lives. His our dad.</font></font></p>
+
+<p align="left"><font size="1" face="Verdana">(Prue stands up.)</font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Prue: </font> </b><font size="1">I know, Phoebe.</font></font></p>
+
+<p align="left"><font size="1" face="Verdana">(Prue hugs her. Piper notices
+something on the floor. She walks over and bends down.)</font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Piper: </font> </b><font size="1">Hey, look. (She picks
+up Victor's ring.) Dad's ring. What's it doing here?</font></font></p>
+
+<p align="left"><font size="1" face="Verdana">(She hands it to Prue.)</font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Phoebe: </font> </b><font size="1">It must of came off
+when he, uh... fell.</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Prue: </font> </b><font size="1">Well, I'll take it back
+to the hotel.</font></font></p>
+
+<p align="left"><font size="1" face="Verdana">(She puts it on the table.)</font></p>
+
+<p align="left"><font size="1" face="Verdana">[Time lapse. Outside. Phoebe picks
+up the paper. She waves at Fritz and Marshall across the road who are leaning
+against their car. Victor stands behind Phoebe. Phoebe turns around and gasps.]</font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Victor: </font> </b><font size="1">Don't be afraid.</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Phoebe: </font> </b><font size="1">What are you... you
+have to leave.</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Victor: </font> </b><font size="1">Phoebe, please, this
+is very important.</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Phoebe: </font> </b><font size="1">I can't. I don't
+wanna talk to you anymore.</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Victor: </font> </b><font size="1">Phoebe, you gotta get
+the book out of the house.</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Phoebe: </font> </b><font size="1">You have to leave.</font></font></p>
+
+<p align="left"><font size="1" face="Verdana">(She tries to walk away but he grabs
+her arms.)</font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Victor: </font> </b><font size="1">Phoebe, trust me.
+Look...</font></font></p>
+
+<p align="left"><font size="1" face="Verdana">(Phoebe has the same premonition as
+before again but this time Victor shape shifts into Marshall. Marshall, Fritz
+and Cynda walk off with the book. The premonition ends. Marshall and Fritz walk
+over to them. Victor lets go of Phoebe.)</font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Marshall: </font> </b><font size="1">Excuse me, hey. Is
+this guy bothering you?</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Phoebe: </font> </b><font size="1">Uh, no. This is my,
+uh... this is Victor.</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Victor: </font> </b><font size="1">We were just saying
+goodbye.</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Phoebe: </font> </b><font size="1">Yeah, I gotta run.</font></font></p>
+
+<p align="left"><font size="1" face="Verdana">(Phoebe goes back inside.)</font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Victor: </font> </b><font size="1">What's the matter?
+Don't you trust me?</font></font></p>
+
+<p align="left"><font size="1" face="Verdana">[Cut to inside. Phoebe runs inside
+heading towards the stairs. Prue comes in.]</font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Phoebe: </font> </b><font size="1">Dad's not after the
+book, it's Marshall.</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Prue: </font> </b><font size="1">What?</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Phoebe: </font> </b><font size="1">My premonition, it
+wasn't dad. Gotta find a spell and banish them.</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Prue: </font> </b><font size="1">Banish who?</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Phoebe: </font> </b><font size="1">The neighbours.
+They're shape shifters. Fritz and Marshall and the...</font></font></p>
+
+<p align="left"><font size="1" face="Verdana">(Piper and Cynda walk in.)</font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Cynda: </font> </b><font size="1">Cookies. Just baked.</font></font></p>
+
+<p align="left"><font size="1" face="Verdana">(Fritz walks in.)</font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Fritz: </font> </b><font size="1">Hey, door was
+unlocked.</font></font></p>
+
+<p align="left"><font size="1" face="Verdana">(Phoebe starts walking up the
+stairs.)</font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Piper: </font> </b><font size="1">We're you going,
+Pheebs?</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Phoebe: </font> </b><font size="1">Uh, just to get
+something. Will you save me a cookie? (Cynda smiles.) Okay.</font></font></p>
+
+<p align="left"><font size="1" face="Verdana">(Phoebe goes upstairs. Victor walks
+in.)</font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Victor: </font> </b><font size="1">Daddy's home.</font></font></p>
+
+<p align="left"><font size="1" face="Verdana">[Cut to the attic. Phoebe runs over
+to a closet. She pulls the clothes across and the book is in there. She flips
+the pages.]</font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Phoebe: </font> </b><font size="1">Come on, come on. I
+have no idea what I'm looking for. (The pages turn by themselves.) Okay, I can
+take a hint. (It stops at a page.) &quot;When in the circle that is home, safety's
+gone and evils roam, rid all beings from these walls, save sisters three now
+heed our call.&quot; (She repeats it and runs downstairs.) Dad, you can't be
+here, you have to leave now.</font></font></p>
+
+<p align="left"><font size="1" face="Verdana">(Another Victor walks in.)</font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Piper: </font> </b><font size="1">Whoa, time out. What's
+going on here?</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Victor #1: </font> </b><font size="1">Don't worry about
+it, sweetie. Everything's gonna be fine.</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Victor #2: </font> </b><font size="1">Don't trust him.</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Piper: </font> </b><font size="1">Wait a second. Last
+week we had no dad and now we have two?</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Victor #1: </font> </b><font size="1">Phoebe, remember,
+remember when you were little and you were afraid of the dark and I would leave
+the hall light on and the door open just a crack.</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Victor #2: </font> </b><font size="1">Oh, that's
+original. What kid isn't afraid of the dark?</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Victor #1: </font> </b><font size="1">Prue, she's never
+afraid of anything.</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Piper: </font> </b><font size="1">He's right, Prue. You
+were never afraid of the dark.</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Victor #2: </font> </b><font size="1">Lucky guess. I
+said I came back to protect you. Now there's only one way to do it. Kill us
+both.</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Victor #1: </font> </b><font size="1">You're bluffing.</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Victor #2: </font> </b><font size="1">Am I? Just do it because
+I wanna go out with a bang.</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Prue: </font> </b><font size="1">Do it, Phoebe.</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Phoebe: </font> </b><font size="1">The spell will kill
+everyone including dad.</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Victor #2: </font> </b><font size="1">It's the only way.
+Prudence...</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Piper: </font> </b><font size="1">Prue, the protection
+ring.</font></font></p>
+
+<p align="left"><font size="1" face="Verdana">(Prue uses her power and the ring
+slides across the table. Victor #2 picks it up. Prue nods and he puts it on.)</font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Prue: </font> </b><font size="1">Phoebe, now.</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Phoebe: </font> </b><font size="1">&quot;In the circle
+that is home, safety's gone and evils roam, (Cynda turns into a creature) rid
+all beings from these walls, save sisters three now heed our call.&quot; (It
+gets windy.) &quot;When in the circle that is home, safety's gone and evils
+roam...&quot; (The shape shifters start melting. Victor #2 falls to his knees.
+He looks like he's in pain.) Daddy!</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Victor #2: </font> </b><font size="1">It's okay, keep it
+going.</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Prue, Piper, Phoebe: </font> </b><font size="1">&quot;Rid
+all beings from these walls, save sisters three now heed our call.&quot;</font></font></p>
+
+<p align="left"><font size="1" face="Verdana">(The shape shifters melt and
+disappear. Prue, Piper and Phoebe run over to Victor. Prue helps him up.)</font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Victor: </font> </b><font size="1">For a moment there I
+wasn't sure what you would do.</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Prue: </font> </b><font size="1">For a moment there
+neither did I.</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Phoebe: </font> </b><font size="1">I thought you didn't
+want us to use our magic.</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Victor: </font> </b><font size="1">I didn't. Not as long
+as I still thought of you as my little girls. But you're obviously not anymore.</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Piper: </font> </b><font size="1">We're still you're
+little girls, we're just...</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Prue: </font> </b><font size="1">Witches.</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Victor: </font> </b><font size="1">Yeah, witches. Well, obviously
+you don't need your old man to protect you from anything.</font></font></p>
+
+<p align="center"><b><font size="1" face="Verdana">Commercial Break</font></b></p>
+
+<p align="left"><font size="1" face="Verdana">[Scene: Manor. Living room. Prue,
+Piper and Phoebe are there. Prue's on the phone.]</font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Prue: </font> </b><font size="1">No, Andy, I'm fine
+really. Dad's gonna be here any minute, so can I take a rain check on dinner?
+Okay, thanks for the good advice.</font></font></p>
+
+<p align="left"><font size="1" face="Verdana">(She hangs up.)</font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Phoebe: </font> </b><font size="1">So he's dad now?</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Prue: </font> </b><font size="1">Yes, Phoebe, and by the
+way my dress looks good on you.</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Phoebe: </font> </b><font size="1">I don't have any nice
+clothes, Prue.</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Prue: </font> </b><font size="1">Dad said it was casual.</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Phoebe: </font> </b><font size="1">I don't care. I wanna
+look nice for him. Who knows how long it'll be before we see him again.</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Piper: </font> </b><font size="1">You don't think he's
+gonna stay around?</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Phoebe: </font> </b><font size="1">Well, let's just say
+I no longer have a romanticised image of him. And I'm glad about that actually.
+At least dad is real now.</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Prue: </font> </b><font size="1">And at least he's not a
+monster which is very reassuring considering we share his genes.</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Piper: </font> </b><font size="1">I'm just glad he came
+back no matter how long he stays. Kind of nice feeling like a normal family
+again. Whatever that means. (Phoebe nods. The doorbell rings.) Speak of the
+devil.</font></font></p>
+
+<p align="left"><font size="1" face="Verdana">(Piper answers the door. Piper and
+Leo walk back in the living room.)</font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Prue: </font> </b><font size="1">Uh, hi, you must be Mr.
+Wyatt.</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Phoebe: </font> </b><font size="1">The handyman?</font></font></p>
+
+<div style="float: right;"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- 300x250 Ad -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-4996424940927658"
+     data-ad-slot="1714948548"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></div>
+
+<p align="left"><font face="Verdana"><b><font size="1">Leo: </font> </b><font size="1">Call me Leo.</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Phoebe: </font> </b><font size="1">Gladly.</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Leo: </font> </b><font size="1">This was on the steps.
+(He holds up a yellow large envelope. Prue takes it off him.) This place is, uh,
+you don't find many like this around anymore.</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Piper: </font> </b><font size="1">Yeah, it's kind of
+falling apart.</font></font></p>
+
+<p align="left"><font size="1" face="Verdana">(Prue opens the envelope.)</font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Leo: </font> </b><font size="1">The problem isn't the
+manor, it's the manner in which it was treated. I'd love to see more.</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Phoebe: </font> </b><font size="1">I would love to show
+it to you. The attic is right this way.</font></font></p>
+
+<p align="left"><font size="1" face="Verdana">(She pushes Piper out of the way and
+Phoebe and Leo head towards the stairs.)</font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Prue: </font> </b><font size="1">Guys.</font></font></p>
+
+<p align="left"><font size="1" face="Verdana">(Phoebe turns back around.)</font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Phoebe: </font> </b><font size="1">Uh, I'll be right up.</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Prue: </font> </b><font size="1">He's not coming.</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Piper: </font> </b><font size="1">Who's not coming?</font></font></p>
+
+<p align="left"><font face="Verdana"><b><font size="1">Prue: </font> </b><font size="1">Dad. He sent this. Um,
+(she reads the note) girls, something's come up, I hate to leave town. Can't
+make it to dinner. Probably best if we let the dust settle anyway. I know
+there's a lot you would like to forget but here's what I remember. Love dad.</font></font></p>
+
+<p align="left"><font size="1" face="Verdana">(She holds up a video tape.)</font></p>
+
+<p align="left"><font size="1" face="Verdana">[Time lapse. Prue, Piper and Phoebe
+are watching the video. On the video it's Christmas. Prue, Piper and Phoebe are
+there as kids. They are opening their presents. Victor kisses Prue on the cheek
+and then grabs Piper and lifts her in the air. He then asks what Phoebe got and
+she holds up a Barbie.]</font></p>
+
+<p align="center"><b><font size="1" face="Verdana">End</font></b></p>
+
+<p align="center"><img border="0" src="images/divider.jpg" width="385" height="2"><br>
+<a href="http://charmedscripts.tv"><img border="0" src="images/cs_bottompage.jpg" width="343" height="24"></a><br>
+<img border="0" src="images/divider.jpg" width="385" height="2"></p>
+
+</body>
+
+</html>
