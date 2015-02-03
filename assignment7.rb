@@ -36,8 +36,8 @@ names_and_ages = { "Joseph" => 26, "Dorothy" => 35 }.class
 # Create a symbol and output it's class
 :new_symbol.class
 # Create a String constant with any name you choose
-NAME = "sara"
+FAR = "sara"
 # Change the value of that constant
-puts NAME = 26
+puts FAR == 26
 # Output the constant's value to the screen
-puts SARA
+puts FAR
