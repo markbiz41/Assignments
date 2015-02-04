@@ -38,6 +38,6 @@ names_and_ages = { "Joseph" => 26, "Dorothy" => 35 }.class
 # Create a String constant with any name you choose
 FAR = "sara"
 # Change the value of that constant
-puts FAR == 26
+FAR = "bill"
 # Output the constant's value to the screen
 puts FAR
