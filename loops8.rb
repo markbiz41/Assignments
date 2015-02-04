@@ -6,29 +6,40 @@ Do this for each of these methods of looping: while, for i in range, loop, until
 All should print from 1 to the number input by the user
 =end
 print "Please enter a number: "
-user_number = gets.chomp
-num_com = user_number.to_i
-counter = num_com * 2
-puts "The number of the iteration is #{counter}"
-while counter < 8
-  puts "Your number is #{counter} and it is less than 8"
-  break if counter < 8
-end
-for counter in (1..8)
-  puts "I like this range of numbers!"
-end
-loop do
-  counter += 1
+user_number = gets.chomp.to_i
+puts "The number you entered is: #{user_number}"
+
+counter = 1
+while counter <= user_number
   puts counter
-  break if counter == 10
+  counter += 1
 end
-until counter == 1
-  counter -= 1
-  print "The new count is #{counter}"
+
+#This counter has nothing to do with counter above
+for counter in (1..user_number)
+  puts counter
 end
-for counter in (1...8)
-  puts "This number does get printed"
+
+#incrementing counter before it is even compared
+counter = 1
+loop do
+  puts counter
+  counter += 1
+  break if counter > user_number
 end
-8.times do
-  puts "Today is Wednesday"
+
+counter = 1
+until counter > user_number
+  puts counter
+  counter += 1
+end
+
+#Ruby code on this one always starts at zero
+counter += 1
+user_number.times do |counter|
+  puts counter
+end
+
+(1..user_number).each do |counter|
+  puts counter
 end
