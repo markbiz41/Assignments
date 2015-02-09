@@ -1,6 +1,6 @@
 =begin
 x Design and code a Blog and Post class.
-These classes should model a system where a user can create a blog, which will have posts.
+x These classes should model a system where a user can create a blog, which will have posts.
 x A Blog can have a name, a user_name, and the collection of posts
 x A Post can have a name, a summary, the body of the post, the published date, and a word count.
 Since both a blog and a post MUST have a name, override the initializer so that when an object of either class is created, a name must be supplied.
@@ -9,28 +9,12 @@ Since both a blog and a post MUST have a name, override the initializer so that 
 require 'active_support'
 require 'active_support/all'
 
-class Blog
-  attr_accessor :name, :user_name, :collection_of_posts
-end
-
-def initialized(name)
-  @collection_of_posts = []
-end
 
 
-class Post
-  attr_accessor :name, :summary, :body, :published_date, :word_count
-end
 
-def initialized(name)
-  @name = name
-end
-
-=begin
-Main File
 load "blog.rb"
 load "post.rb"
-=end
+
 blog = Blog.new
 
 post = Post.new
