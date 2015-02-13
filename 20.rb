@@ -1,23 +1,28 @@
+require 'date'
+require 'active_support/all'
 
 #1) Show the date of the beginning of the current week
-beginning_of-week
-
+puts Date.today.beginning_of_week
 #2) Show what the date will be in 30 days
-1.month.to_i.from_now
-
+puts 30.days.from_now.to_date
 #3) Show what day of the week today's date will fall on next year
-start_date = 1years_since(1)
-
+puts 1.year.from_now.strftime("%A")
 #4) Show what day of the week the user's birthday will be on this year
-def future
-  self.birthday
-end
+print "What is your Birthdate? (example: Jan 12) "
+birthday = gets.chomp
+puts Date.parse(birthday).strftime("%A")
+
 
 #5) Using the String class, pluralize a singular word the user enters and show the singular for a plural word the user enters
-gets.chomp.singularize.pluralize
+puts "Enter a word: "
+word = gets.chomp.singularize.pluralize
+puts word
 
 #6) Using the String class, truncate a phrase the user enters to 20 letters
-gets.chomp.truncate(20)
+puts "Enter a phrase: "
+phrase = gets.chomp.truncate(20)
+puts phrase
 
 #7) Using the Array class, convert an array of three words to a sentence with one command
-['one', 'two', 'three'].to_sentence
+s = ['one', 'two', 'three'].to_sentence
+puts s
