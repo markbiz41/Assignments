@@ -1,1 +1,8 @@
-<%= @movies['movies'][0]["synopsis"] %>
+<!-- <%= debug(@movie) %> -->
+
+<h1><%= @movie['title'] %></h1>
+<p>Poster: <%= @movie['posters'] %></p>
+<p>Runtime: <%= @movie['runtime'] %></p>
+<p>Ratings: <%= @movie['ratings'] %></p>
+<p>Synopsis: <%= @movie['synopsis'] %></p>
+<p>Cast Members: <%= @movie['abridged_cast'] %></p>
