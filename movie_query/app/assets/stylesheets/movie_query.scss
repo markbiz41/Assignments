@@ -1,3 +1,14 @@
 // Place all the styles related to the movie_query controller here.
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: http://sass-lang.com/
+/* CSS for movie_query comment */
+
+/* Poster image centered */
+img {
+  width: 150px;
+  height: 300px;
+  display: block;
+  text-indent: -9000px;
+  margin: auto;
+  background: url(splash_image.jpg) top left no-repeat;
+}
