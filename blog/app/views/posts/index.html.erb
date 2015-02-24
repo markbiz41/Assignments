@@ -1,0 +1,22 @@
+
+<h1>Today's Date:  <%= Date.today.strftime("%B %d, %Y") %>!</h1>
+
+<img src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTYGoLv9QEPO1EF2I4E9Ut3h4RXy61VyATybyt06BM4R2ptFbes"/>
+
+<h1>Getting Rich from starting a Tech App, part 1</h1>
+
+<p>Is it possible to make lots of money from inventing a technology app?  Yes is my answer to the question.  The reason for this is that many people today have either a Smartphone, laptop computer, personal computer, or a combination of them and are willing to check out new apps that interest them.  Now you have consumers willing to try new things.  Another reason is that it doesn't take much to create an app in the first place.  All it might require is one to four persons with some knowledge of software programming and a designer to wireframe the app.  This doesn't require huge amount of staff to get a startup rolling.  Another great benefit about creating a tech app is its ability to scale.  This used to be a problem in the late 1990's and early 2000's when technology startups had to build their own infrastructure to accomodate growth by purchasing servers and having an IT department maintain the servers.  Today this is no longer the case.  Tech startups today just rent out the server space they need from server farm-type companies.  This saves a new technology company millions of dollars in start-up costs that they no longer have to incur.  Today apps can be created in a fraction of the time it used to take and a fraction of the cost.  Now it is possible to have an app up and running on a budget of $50,000 or less.</p>
+
+<p>Check out part 2 of this article on Page 1</p>
+
+
+<%=link_to "Index", posts_index_path, class: "btn btn-warning"%>
+<%=link_to "Page 1", posts_post1_path, class: "btn btn-info"%>
+<%=link_to "Page 2", posts_post2_path, class: "btn btn-danger"%>
+<%=link_to "About Me", welcome_about_path, class: "btn btn-success"%>
+
+
+<!-- <a href="/posts/index" class="btn btn-warning">Index Page</a> -->
+<!-- <a href="/posts/post1" class="btn btn-info">Page 1</a> -->
+<!-- <a href="/posts/post2" class="btn btn-danger">Page 2</a> -->
+<!-- <a href="/welcome/about" class="btn btn-success">About Me</a> -->
