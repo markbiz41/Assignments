@@ -1,8 +1,18 @@
 <!-- <%= debug(@movie) %> -->
 
+<!-- Form and Button -->
+<form action="<%= movie_query_search_path %>">
+  <label for="Get Movie">Type in Movie Title:</label>
+  <input id="Get-name" type="text" name="q">
+  <input type="submit" class="btn btn-primary" value="Submit">
+</form>
+
+
+<% if @movie %>
+
 <!-- Movie Title and Synopsis -->
 <div class="jumbotron">
-  <h1>Movie Title:  <%=@movie['title'] %></h1>
+  <h1>Movie Title: <%=@movie['title'] %></h1>
   <p>Synopsis: <%=@movie['synopsis'] %></p>
 </div>
 
@@ -42,4 +52,11 @@
       <td>Audience Score</td>
       <td><%=@movie['ratings']['audience_score'] %></td>
     </tr>
-  </body>
+  </tbody>
+</table>
+
+<%else%>
+
+<!-- <p>No movie found</p> -->
+
+<%end%>

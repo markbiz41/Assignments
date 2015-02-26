@@ -5,18 +5,11 @@ class MovieQueryController < ApplicationController
   def search
 
     query = params[:q]
-
-    s = QUERY_URL + "?apiKey=#{API_KEY}&q=#{query}"
-    raw_json = Net::HTTP.get(URI(s))
-    movies = JSON.parse(raw_json)
-    @movie = movies['movies'][0]
+    if query
+      s = QUERY_URL + "?apiKey=#{API_KEY}&q=#{query}"
+      raw_json = Net::HTTP.get(URI(s))
+      movies = JSON.parse(raw_json)
+      @movie = movies['movies'][0]
+    end
   end
 end
-
-
-=begin
-    query = JSON.PARSE(raw_json)
-    post "\n"
-    query['movies'].each do |movie|
-    @movie = movies['movies'][0]
-=end
