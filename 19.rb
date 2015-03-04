@@ -1,4 +1,7 @@
-#paste code below
+# Note for this exercise, follow these simplified pig latin rules
+# If the first letter is a vowel, add "way" to the end
+# If the first letter is a consonant, move it to the end and add "ay"
+
 class PigLatin
   VOWELS =  %w(a e i o u)
 
@@ -22,11 +25,17 @@ class PigLatin
   end
 end
 
-puts "Please enter a sentence and I will translate to pig latin"
-text = gets.chomp
-words = text.split()
-results = ""
-for i in 0..words.length-1
-  results = results + PigLatin.pigatize(words[i]) + " "
+class String
+
+  def pigatize
+    PigLatin.pigatize(self)
+  end
 end
-puts "Pigatize: #{results}"
+
+
+puts "Please enter a word and I will translate to pig latin"
+text = gets.chomp
+puts "Pigatize: #{text.pigatize}"
+ 
+# puts "foo".pigatize
+# puts PigLatin.pigatize("foo")
