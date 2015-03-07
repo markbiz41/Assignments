@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  books: MyString
+  magazines: MyString
+  cd: MyString
+  dvd: MyString
+
+two:
+  books: MyString
+  magazines: MyString
+  cd: MyString
+  dvd: MyString

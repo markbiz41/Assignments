@@ -13,4 +13,11 @@
 #
 
 class Book < ActiveRecord::Base
+  validates :title, presence: true
+  validates :author, presence: true
+  validates :copyright_date, presence: true
+
+  belongs_to :library
+  has_many :books, dependent: :destroy
+  has_many :magazines, dependent: :destroy
 end
